@@ -1,0 +1,54 @@
+body{
+    background-color:  #D3C5E5;
+    margin: 0;
+}
+.message{
+    box-sizing: border-box;
+margin-top: 200px;
+margin-left: 100px;
+height: 100px;
+width: 850px;
+background-color: #735DA5;
+display: flex;
+border-radius: 30px;
+border:2px solid white
+
+}
+.type{
+
+    box-sizing: border-box;
+    padding-left: 20px;
+    height: 70px;
+    width: 700px;
+    background-color: #735DA5;
+    font-size: 3rem;
+    
+}
+.cart{
+    height: 70px;
+    width: 100px;
+    background-color: #735DA5;
+    font-size: 3rem;
+    box-sizing: border-box;
+    color: white;
+
+}
+#element{
+    color: rgb(0, 0, 0);
+ font-size :rem;
+ align-items: centre;
+ color: white;
+}
+.envelop{
+    background-color: #735DA5 ;
+ height :210px;
+    width: 1280px;
+    box-sizing: border-box;
+    padding-top: 20px;
+}
+.home{
+    padding: 20px;
+    background-color: white;
+    font-size: 2rem;
+
+}
